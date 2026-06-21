@@ -1,0 +1,6 @@
+{
+  "name": "Health Station",
+  "description": "A professional, modern website for Health Station, a premier physiotherapy clinic offering sports injury rehab, manual therapy, and active recovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
